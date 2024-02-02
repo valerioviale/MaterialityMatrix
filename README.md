@@ -19,7 +19,11 @@ You can install the required packages using the following command:
 
 ```bash
 pip install matplotlib numpy adjustText
-
+´´´
 
 git clone https://github.com/valerioviale/MaterialityMatrix.git
 cd MaterialityMatrix
+
+´´´
+
+<img width="1317" alt="MaterialityMatrix" src="https://github.com/valerioviale/MaterialityMatrix/assets/34212301/7c7ab101-71d8-465c-ae26-dc2d75c37176">
